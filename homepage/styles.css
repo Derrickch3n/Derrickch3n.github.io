@@ -1,0 +1,87 @@
+.QCMSC {
+    width: 500;
+    length: 400;
+}
+
+.blue {
+    background-color: blue;
+}
+
+/* .parallax {
+    background-image: url("QCM6.jpeg");
+    min-height: 1000px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+.bg {
+    background-image: url("QCM2.png");
+    background-attachment: fixed;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg5 {
+    background-image: url("QCM4.jpeg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nyhead {
+    font-size: 3.5x;
+    margin-top: 5%;
+}
+
+.white-shadow {
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
+
+.essaytitle {
+    text-align: center;
+    font-size: 100px;
+    margin-top: 500px;
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
+
+.indent {
+    text-indent: 50px;
+}
+
+.newroman {
+    font-family: "New Times Roman", Times, serif;
+    font-size: 20px
+}
+
+#centerq {
+    text-align: center;
+    font-family: "New Times Roman", Times, serif;
+    font-size: 30px;
+}
+
+.horizontalbox {
+    justify-content: space-around;
+}
+
+.m4 {
+    margin: 50px
+}
+
+#Derrickpic {
+    text-align: center;
+}
+
+#bg6 {
+    background-image: url("QueensCentermallsky.png");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
